@@ -3,7 +3,7 @@
 ## 📌 Visão Geral
 
 Aplicação moderna desenvolvida com **SharePoint Framework (SPFx)**, **React** e **TypeScript**, que permite aos colaboradores **gerir pedidos de férias de forma intuitiva, eficaz e integrada** com o ecossistema Microsoft 365.  
-A solução é responsiva, personalizável e integra com a **Microsoft Graph API** para uma experiência fluida e visualmente consistente com o Microsoft Teams e SharePoint.
+A solução é responsiva, personalizável e integra com a **Microsoft Graph API** para uma experiência fluida e visualmente consistente com o SharePoint.
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.20.8-brightgreen.svg)
 ![SPFx](https://img.shields.io/badge/SharePoint%20Framework-1.20.0-green.svg)
