@@ -1,9 +1,9 @@
-# 🏖️ Sistema de Gestão de Pedidos de Férias – SPFx (SharePoint Framework)
+# Pedidos de Férias – SPFx (SharePoint Framework)
 
 ## 📌 Visão Geral
 
 Aplicação moderna desenvolvida com **SharePoint Framework (SPFx)**, **React** e **TypeScript**, que permite aos colaboradores **gerir pedidos de férias de forma intuitiva, eficaz e integrada** com o ecossistema Microsoft 365.  
-A solução é responsiva, personalizável e integra com a **Microsoft Graph API** para uma experiência fluida e visualmente consistente com o Microsoft Teams e SharePoint.
+A solução é responsiva, personalizável e integra com a **Microsoft Graph API** para uma experiência fluida e visualmente consistente no SharePoint.
 
 ![Node.js](https://img.shields.io/badge/Node.js-18.20.8-brightgreen.svg)
 ![SPFx](https://img.shields.io/badge/SharePoint%20Framework-1.20.0-green.svg)
@@ -64,20 +64,19 @@ Adicionar a app, atraves do ficheiro de instalacao .sppkg, à AppCatalog no Shar
 ## 📸 Capturas de Ecrã
 
 ### 🗂️ Listagem de Pedidos
-![Listagem de Pedidos]![lista](https://github.com/user-attachments/assets/2e4402ee-95a3-4f39-ac67-f275ae9bfdb3)
+![Listagem de Pedidos] ![lista](../Pedidos/src/webparts/pedidos/assets/lista.png)
 
 ### 🗂️ Listagem de Pedidos - Pedido Pendente
-![Pedido Pendente]![itemPendente](https://github.com/user-attachments/assets/ffdc08d7-2b15-48cf-953d-a8ef87780550)
+![Pedido Pendente] ![itemPendente](../Pedidos/src/webparts/pedidos/assets/itemPendente.png)
 
 ### 🗂️ Listagem de Pedidos - Pedido Aprovado/Recusado
-![Pedido Aprovado/Recusado]![itemAprovadoouRejeitado](https://github.com/user-attachments/assets/b4c02579-b953-450b-ac81-5e7692c3c4b8)
+![Pedido Aprovado/Recusado] ![itemAprovadoouRejeitado](../Pedidos/src/webparts/pedidos/assets/itemAprovadoouRejeitado.png)
 
 ### 🗂️ Listagem de Pedidos - Filtragem
-![Pedido Aprovado/Recusado]![filtragem](https://github.com/user-attachments/assets/2795f14b-d1ee-469c-84d2-05ad09a4352a)
-
+![Pedido Aprovado/Recusado] ![filtragem](../Pedidos/src/webparts/pedidos/assets/filtragem.png)
 
 ### 📝 Formulário de Novo Pedido
-![Novo Pedido]![CriacaodoPedido](https://github.com/user-attachments/assets/2e3b57d8-8eff-433a-aff1-727bd9619118)
+![Novo Pedido] ![CriacaodoPedido](../Pedidos/src/webparts/pedidos/assets/CriacaodoPedido.png)
 
 ---
 
@@ -85,7 +84,7 @@ Adicionar a app, atraves do ficheiro de instalacao .sppkg, à AppCatalog no Shar
 
 | Versão | Data         | Novidades                                               |
 |--------|--------------|---------------------------------------------------------|
-| 1.0.0  | Janeiro 2025 | 🚀 Versão inicial com todas as funcionalidades principais |
+| 1.0.0  |  Junho 2025  | 🚀 Versão inicial com todas as funcionalidades principais |
 
 ---
 
