@@ -64,19 +64,24 @@ Adicionar a app, atraves do ficheiro de instalacao .sppkg, à AppCatalog no Shar
 ## 📸 Capturas de Ecrã
 
 ### 🗂️ Listagem de Pedidos
-![Listagem de Pedidos] ![lista](../Pedidos/src/webparts/pedidos/assets/lista.png)
+![Listagem de Pedidos] 
+![lista](https://github.com/zemanel20/Pedidos/tree/main/src/webparts/pedidos/assets/lista.png)
 
 ### 🗂️ Listagem de Pedidos - Pedido Pendente
-![Pedido Pendente] ![itemPendente](../Pedidos/src/webparts/pedidos/assets/itemPendente.png)
+![Pedido Pendente] 
+![itemPendente](https://github.com/zemanel20/Pedidos/tree/main/src/src/webparts/pedidos/assets/itemPendente.png)
 
 ### 🗂️ Listagem de Pedidos - Pedido Aprovado/Recusado
-![Pedido Aprovado/Recusado] ![itemAprovadoouRejeitado](../Pedidos/src/webparts/pedidos/assets/itemAprovadoouRejeitado.png)
+![Pedido Aprovado/Recusado] 
+![itemAprovadoouRejeitado](https://github.com/zemanel20/Pedidos/tree/main/src/webparts/pedidos/assets/itemAprovadoouRejeitado.png)
 
 ### 🗂️ Listagem de Pedidos - Filtragem
-![Pedido Aprovado/Recusado] ![filtragem](../Pedidos/src/webparts/pedidos/assets/filtragem.png)
+![Pedido Aprovado/Recusado] 
+![filtragem](https://github.com/zemanel20/Pedidos/tree/main/src/webparts/pedidos/assets/filtragem.png)
 
 ### 📝 Formulário de Novo Pedido
-![Novo Pedido] ![CriacaodoPedido](../Pedidos/src/webparts/pedidos/assets/CriacaodoPedido.png)
+![Novo Pedido] 
+![CriacaodoPedido](https://github.com/zemanel20/Pedidos/tree/main/src/webparts/pedidos/assets/CriacaodoPedido.png)
 
 ---
 
